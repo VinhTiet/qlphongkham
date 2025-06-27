@@ -31,3 +31,4 @@ async function sendMessage() {
   chatBox.innerHTML += `<p><strong>HeartCare:</strong> ${reply}</p>`;
   chatBox.scrollTop = chatBox.scrollHeight;
 }
+jhsdfjds
